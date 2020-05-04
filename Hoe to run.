@@ -1,0 +1,12 @@
+โค้ดนั้นจะยังรันไม่ได้ ต้องลง Libraries ของ JCalender และ MySql Connector ซะก่อน โดยสามารถโหลดได้ที่ลิ้งนี้
+
+- JCalender : https://toedter.com/jcalendar/
+- MySql Connector : https://dev.mysql.com/downloads/connector/j/5.1.html
+
+หลังจากโหลดเรียบร้อยแล้วให้กดคลิ๊กขวาที่โฟลเดอร์ในโปรแกรมแล้ว Add External Archives
+ในการรันภาพพื้นหลังและภาพของห้องจะหายไปแต่ยังทำงานได้ปกติ หากต้องการรูปให้ไปโหลดตามด้านล่าง
+
+- ภาพพื้นหลัง : https://www.img.in.th/image/UEdZa7
+- ภาพของห้อง : https://www.img.in.th/image/UEjVZv
+
+แล้วนำ Path ในเครื่องไปใส่ในโค้ดส่วนของรูปภาพทั้ง 4 คลาส(ส่วนใหญ่จะอยู่ด้านล่างสุด)
